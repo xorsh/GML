@@ -13,7 +13,7 @@ body {
 }
 
 .card {
-  width: 600px;
+  width: ?;
   box-shadow: 0 0 15px rgba(0,0,0,.20);
   display: flex;
 }
@@ -76,5 +76,5 @@ body {
 }
 
 .card__button:hover {
-  background: green;
+  background: ?;
   c
