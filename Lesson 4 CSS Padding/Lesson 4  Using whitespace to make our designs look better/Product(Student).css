@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Merriweather+Sans:300,800');
 
 * {
-  padding: 0;
+  padding: ?;
   margin: 0;
   box-sizing: border-box;
 }
 
 body {
   font-family: 'Merriweather Sans', sans-serif;
-  padding: 50px;
+  padding: ?;
   display: flex;
 }
 
@@ -34,7 +34,7 @@ body {
 
 .card__content {
   flex: 2;
-  padding: 100px 40px;
+  padding: ? ?;
 }
 
 .card__title {
@@ -72,7 +72,7 @@ body {
   background: limegreen;
   color: black;
   text-decoration: none;
-  padding: 13px 25px;
+  padding: ? ?;
 }
 
 .card__button:hover {
