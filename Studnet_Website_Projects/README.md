@@ -1,2 +1,1 @@
-# kimss
- https://navabelay.github.io/kimss/
+# Student websites from Spring 2022
